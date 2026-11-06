@@ -3,3 +3,6 @@
 *.huanqiu-ltd.com
 *.betaenv.com
 *.zlib.com
+*.ishort.link
+*.4it.cc
+*.xyutils.top
