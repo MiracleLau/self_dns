@@ -1,1 +1,5 @@
-huanqiucdn.cn
+*.huanqiucdn.cn
+*.huanqiu.com
+*.huanqiu-ltd.com
+*.betaenv.com
+*.zlib.com
